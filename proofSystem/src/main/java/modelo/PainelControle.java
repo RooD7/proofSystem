@@ -1,7 +1,10 @@
 package modelo;
 
+
 import java.util.ArrayList;
 
+import javax.persistence.Entity;
+@Entity
 public class PainelControle {
 
 	// Possui todas as categorias cadastradas no sistema
